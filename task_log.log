@@ -1,0 +1,140 @@
+2025-04-16 23:09:39,242 - Worker-2 completed: Task-2 Type-2
+2025-04-16 23:09:39,281 - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:49> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 73, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:14:12,673 - Worker-1 failed to process: Task-1 Type-1
+2025-04-16 23:14:15,572 - Worker-1 completed: Task-4 Type-1
+2025-04-16 23:14:15,572 - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:49> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 73, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:14:16,584 - Worker-5 completed: Task-5 Type-2
+2025-04-16 23:14:16,585 - Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:49> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 73, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:14:17,860 - Worker-2 completed: Task-8 Type-2
+2025-04-16 23:14:17,860 - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:49> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 73, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:16:17,880 - Worker-1 failed to process: Task-1 Type-1
+2025-04-16 23:16:18,468 - Worker-2 failed to process: Task-2 Type-2
+2025-04-16 23:16:20,640 - Worker-3 completed: Task-3 Type-0
+2025-04-16 23:16:20,640 - Task exception was never retrieved
+future: <Task finished name='Task-4' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 79, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:16:21,250 - Worker-4 completed: Task-4 Type-1
+2025-04-16 23:16:21,250 - Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 79, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:16:22,047 - Worker-1 failed to process: Task-7 Type-1
+2025-04-16 23:16:22,230 - Worker-2 completed: Task-5 Type-2
+2025-04-16 23:16:22,230 - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 79, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:16:25,020 - Worker-1 completed: Task-10 Type-1
+2025-04-16 23:16:25,021 - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 79, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:18:15,157 - Worker-4 completed: Task-1 Type-1
+2025-04-16 23:18:15,158 - Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:18:16,217 - Worker-2 completed: Task-2 Type-2
+2025-04-16 23:18:16,218 - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:18:16,421 - Worker-3 completed: Task-3 Type-0
+2025-04-16 23:18:16,422 - Task exception was never retrieved
+future: <Task finished name='Task-4' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:18:18,901 - Worker-1 completed: Task-7 Type-1
+2025-04-16 23:18:18,902 - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:19:32,999 - Worker-4 completed: Task-1 Type-1
+2025-04-16 23:19:33,000 - Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:19:33,589 - Worker-5 completed: Task-2 Type-2
+2025-04-16 23:19:33,589 - Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:19:34,774 - Worker-3 completed: Task-3 Type-0
+2025-04-16 23:19:34,774 - Task exception was never retrieved
+future: <Task finished name='Task-4' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:19:35,654 - Worker-2 completed: Task-5 Type-2
+2025-04-16 23:19:35,655 - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
+2025-04-16 23:19:36,634 - Worker-1 completed: Task-7 Type-1
+2025-04-16 23:19:36,635 - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Worker.listen() done, defined at C:\Users\user\Desktop\distributed-sim\main.py:55> exception=NameError("name 'manager' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\distributed-sim\main.py", line 72, in listen
+    manager.completed_tasks += 1
+    ^^^^^^^
+NameError: name 'manager' is not defined
